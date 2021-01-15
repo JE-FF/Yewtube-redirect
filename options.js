@@ -8,7 +8,7 @@ function saveOptions(e) {
 function restoreOptions() {
 
   function setCurrentChoice(result) {
-    document.querySelector("#instance").value = result.instance || "teddit.net";
+    document.querySelector("#instance").value = result.instance || "yewtu.be";
   }
 
   function onError(error) {
