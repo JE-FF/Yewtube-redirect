@@ -11,14 +11,6 @@
   "icons": {
     "240": "icons/redirect-240.png"
   },
-  
- /*
- "browser_specific_settings": {
-    "gecko": {
-      "id": "{fabaca19-4136-44b4-885d-9244adc75826}"
-     }
-  },
-  */
 
   "permissions": ["storage"],
 
